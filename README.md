@@ -1,2 +1,2 @@
 # WiFIProfiles
-Tools to help one managed their WIFI Profiles
+Tools to help one manage their WIFI Profiles
